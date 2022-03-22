@@ -39,7 +39,7 @@
 
 <p>Cutting-edge Web3 Engineer who develops novel technologies to expand cryptographic applications.</p>
 <p>Transitioned into web3 after being a traditional full-stack developer with React and Node.js for around 7 years, contributed to developing open-source blockchain projects for about 2 years.</p>
-<p>Mostly experienced in Ethereum and Cosmos but also got deep knowledge on Solana, Carnado, Ploygon and other EVM compatible layer 1 blockchains.</p>
+<p>Mostly experienced in Ethereum and Cosmos and wrote smart contracts using Solidity and Cosmwasm.</p>
 <p>As a full-stack engineer, I have developed useful, approachable user interfaces with React and followed all aspects of Facebook's best practices.</p>
 
 ## Work Style
