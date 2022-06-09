@@ -51,8 +51,17 @@ while (true) {
 addEventListener("new_technologies", () => {
   learn();
 });
-// ERROR: removeEventListener() can not be defined here.
 ```
+
+## My GitHub Stats 📊
+<p align="center">
+	<a href="https://github.com/visitskyworld">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visitskyworld&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,ruby,css,less,go" />
+	</a>
+	<a href="https://github.com/visitskyworld">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=visitskyworld&show_icons=true&theme=dracula" />
+	</a>
+</p>
 
 <div align="center">
   <a href="mailto:visitskyworld@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
