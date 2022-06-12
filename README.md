@@ -36,11 +36,11 @@
 </table>
 
 ## About me
+I am a creative software engineer with 7 years developing useful, approachable user interfaces. I am Knowledgeable on all aspects of Facebook's design best practices and emerging UI development techniques. I am skilled at connecting exceptional assets with users via creative UI frameworks and careful user experience optimization.
+I also activly participated and contributed to developing open-source blockchain projects for about 2 years. I am mostly experienced in Ethereum and Cosmos and wrote smart contracts using Solidity and Cosmwasm.
+I am willing to direct large-scale teams or work hands-on to complete extremely difficult projects and bring both cutting-edge programming expertise and exceptional interpersonal skills
 
-<p>Cutting-edge Web3 Engineer who develops novel technologies to expand cryptographic applications.</p>
-<p>Transitioned into web3 after being a traditional full-stack developer with React and Node.js for around 7 years, contributed to developing open-source blockchain projects for about 2 years.</p>
-<p>Mostly experienced in Ethereum and Cosmos and wrote smart contracts using Solidity and Cosmwasm.</p>
-<p>As a full-stack engineer, I have developed useful, approachable user interfaces with React and followed all aspects of Facebook's best practices.</p>
+***Please visit my [persoanl website](https://visitskyworld.github.io/) to learn more about me!***
 
 ## Work Style
 
@@ -62,7 +62,3 @@ addEventListener("new_technologies", () => {
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=visitskyworld&show_icons=true&theme=dracula" />
 	</a>
 </p>
-
-<div align="center">
-  <a href="mailto:visitskyworld@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-</div>
