@@ -40,7 +40,7 @@ I am a creative software engineer with 7 years developing useful, approachable u
 I also activly participated and contributed to developing open-source blockchain projects for about 2 years. I am mostly experienced in Ethereum and Cosmos and wrote smart contracts using Solidity and Cosmwasm.
 I am willing to direct large-scale teams or work hands-on to complete extremely difficult projects and bring both cutting-edge programming expertise and exceptional interpersonal skills
 
-***Please visit my [persoanl website](https://visitskyworld.github.io/) to learn more about me!***
+***Please visit my [personal website](https://visitskyworld.github.io/) to learn more about me!***
 
 ## Work Style
 
