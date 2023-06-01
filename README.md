@@ -1,4 +1,4 @@
-# Hi, I am Andrew Scott 👋
+# Hi, 👋
 
 <table align="center">
 <tr>
