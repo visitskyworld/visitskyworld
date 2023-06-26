@@ -1,4 +1,4 @@
-# Hi, 👋
+# Hi, I am Andrew Scott👋
 
 <table align="center">
 <tr>
@@ -40,6 +40,8 @@ I am a creative software engineer with 7 years developing useful, approachable u
 I also activly participated and contributed to developing open-source blockchain projects for about 2 years. I am mostly experienced in Ethereum and Cosmos and wrote smart contracts using Solidity and Cosmwasm.
 I am willing to direct large-scale teams or work hands-on to complete extremely difficult projects and bring both cutting-edge programming expertise and exceptional interpersonal skills
 
+## Want more ❓
+Go to https://visitskyworld.github.io
 
 ## Work Style
 
