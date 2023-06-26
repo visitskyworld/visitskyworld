@@ -53,7 +53,7 @@ addEventListener("new_technologies", () => {
   learn();
 });
 ```
-
+<!--
 ## My GitHub Stats 📊
 <p align="center">
 	<a href="https://github.com/visitskyworld">
@@ -63,3 +63,4 @@ addEventListener("new_technologies", () => {
 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=visitskyworld&show_icons=true&theme=dracula" />
 	</a>
 </p>
+-->
